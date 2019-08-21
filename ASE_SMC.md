@@ -13,7 +13,8 @@ in the GTF format.
 ### Folder Organization
 The image below displays the folder structure for the ASE analysis,
 along with all of the files that you should have when done:
-file:///home/ace08/Dropbox/SRIP2019/Progress_Reports/folder_pic.png
+
+![Folder Organization](https://github.com/AlfredoLebron/AlfredoLebron/2019_SRIP/blob/master/folder_pic.png?raw=true "Folder Organization")
 
 ### Installing ASElux
 Create a folder that will contain the ASElux file and analysis files. I named it
