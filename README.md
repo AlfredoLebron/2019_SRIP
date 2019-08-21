@@ -1,2 +1,5 @@
 # 2019_SRIP
-Brief documentation of research I did in the Civelek Lab at the University of Virginia
+## This repository provides brief documentation of research that I did in the Civelek Lab at the University of Virginia.
+### It includes markdown files for:
+- creating a custom gtf based on transcription units
+- evaluating allele-specific expression in parallel
